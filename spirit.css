@@ -1,0 +1,20 @@
+body{
+  background-image:url(img/background.png);
+}
+.card{
+    margin-top: 2.5%
+}
+textarea{
+  resize:none !important;
+}
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    background-color: white;
+}
